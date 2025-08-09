@@ -2,7 +2,7 @@
 
 A modern, intelligent tax calculator that leverages artificial intelligence to help you navigate your tax calculations with ease. Built with Next.js 15.3.0 and powered by advanced AI models.
 
-![Demo of Easy Tax Calculator](./assets/tax-ai.gif)
+![Demo of Easy Tax Calculator](./src/assest/tax-ai.gif)
 
 ## Features
 
