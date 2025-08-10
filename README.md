@@ -1,4 +1,4 @@
-# Easy Tax - AI-Powered Tax Calculator
+# Easy Tax - AI-Powered Tax Calculator (https://simple-tax.vercel.app/)
 
 A modern, intelligent tax calculator that leverages artificial intelligence to help you navigate your tax calculations with ease. Built with Next.js 15.3.0 and powered by advanced AI models.
 
